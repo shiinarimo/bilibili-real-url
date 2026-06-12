@@ -1,5 +1,6 @@
 {
   "name": "bilibili-real-url",
+  "type": "module",
   "author": {
     "name": "Gizmo",
     "url": "https://github.com/gizmo-ds"
